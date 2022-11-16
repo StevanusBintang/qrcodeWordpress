@@ -1,0 +1,4 @@
+Username : Stevanus Bintang
+Password : @jiwajawa123
+situs : QR Code Jiwa Jawa
+lokasi file : localhost/star/wordpress
